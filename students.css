@@ -1,0 +1,128 @@
+#adel {
+    width: 50px;
+    height: 66px;
+    background: url('animations/adel.png') left center;
+    background-size: cover;
+    animation: gif 0.25s steps(2) infinite;
+    image-rendering: pixelated;
+}
+#larry {
+    width: 50px;
+    height: 66px;
+    background: url('animations/larry.png') left center;
+    background-size: cover;
+    animation: gif 0.25s steps(2) infinite;
+    image-rendering: pixelated;
+}
+#liam {
+    width: 50px;
+    height: 66px;
+    background: url('animations/liam.png') left center;
+    background-size: cover;
+    animation: gif 0.25s steps(2) infinite;
+    image-rendering: pixelated;
+}
+#szymon {
+    width: 50px;
+    height: 66px;
+    background: url('animations/szymon.png') left center;
+    background-size: cover;
+    animation: gif 0.25s steps(2) infinite;
+    image-rendering: pixelated;
+}
+#titus {
+    width: 50px;
+    height: 66px;
+    background: url('animations/titus.png') left center;
+    background-size: cover;
+    animation: gif 0.25s steps(2) infinite;
+    image-rendering: pixelated;
+}
+#tom {
+    width: 50px;
+    height: 66px;
+    background: url('animations/tom.png') left center;
+    background-size: cover;
+    animation: gif 0.25s steps(2) infinite;
+    image-rendering: pixelated;
+}
+#gabe {
+    width: 50px;
+    height: 66px;
+    background: url('animations/gabe.png') left center;
+    background-size: cover;
+    animation: gif 0.25s steps(2) infinite;
+    image-rendering: pixelated;
+}
+#henry {
+    width: 50px;
+    height: 66px;
+    background: url('animations/henry.png') left center;
+    background-size: cover;
+    animation: gif 0.25s steps(2) infinite;
+    image-rendering: pixelated;
+}
+#kenta {
+    width: 50px;
+    height: 66px;
+    background: url('animations/kenta.png') left center;
+    background-size: cover;
+    animation: gif 0.25s steps(2) infinite;
+    image-rendering: pixelated;
+}
+#kevin {
+    width: 50px;
+    height: 66px;
+    background: url('animations/kevin.png') left center;
+    background-size: cover;
+    animation: gif 0.25s steps(2) infinite;
+    image-rendering: pixelated;
+}
+#ozzieh {
+    width: 50px;
+    height: 66px;
+    background: url('animations/ozzieh.png') left center;
+    background-size: cover;
+    animation: gif 0.25s steps(2) infinite;
+    image-rendering: pixelated;
+}
+#chester {
+    width: 50px;
+    height: 66px;
+    background: url('animations/chester.png') left center;
+    background-size: cover;
+    animation: gif 0.25s steps(2) infinite;
+    image-rendering: pixelated;
+}
+#elliot {
+    width: 50px;
+    height: 66px;
+    background: url('animations/elliot.png') left center;
+    background-size: cover;
+    animation: gif 0.25s steps(2) infinite;
+    image-rendering: pixelated;
+}
+#cecilv {
+    width: 50px;
+    height: 66px;
+    background: url('animations/cecilv.png') left center;
+    background-size: cover;
+    animation: gif 0.25s steps(2) infinite;
+    image-rendering: pixelated;
+}
+#denny {
+    width: 50px;
+    height: 66px;
+    background: url('animations/denny.png') left center;
+    background-size: cover;
+    animation: gif 0.25s steps(2) infinite;
+    image-rendering: pixelated;
+}
+#nasser {
+    width: 50px;
+    height: 66px;
+    background: url('animations/nasser.png') left center;
+    background-size: cover;
+    animation: gif 0.25s steps(2) infinite;
+    image-rendering: pixelated;
+}

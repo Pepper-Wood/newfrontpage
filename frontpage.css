@@ -1,0 +1,86 @@
+* {
+    box-sizing: border-box;
+}
+html, body {
+    margin: 0;
+    height: 100%;
+}
+body {
+    background-image: url("bluepixel.png");
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+.cover_container {
+    padding: 0 !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 100%;
+    height: 100%;
+}
+.gray_bottom {
+    background-color: #393939;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.animated_island {
+    background-image: url("grayjabberwockisland.png");
+    height: 50px;
+    animation-name: bg;
+    animation-duration: 15s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+@keyframes bg {
+    from {background-position: 0 0;}
+    to {background-position: -960px 0;}
+}
+.red_button {
+    background-color: #F92845;
+    color: #FFF;
+    padding: 0.5em 1em;
+    margin-bottom: 3em;
+}
+.student {
+    animation-name: running;
+    animation-duration: 10s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    position: fixed;
+    bottom: 50%;
+}
+.student2 {
+    animation-name: running2;
+    animation-duration: 20s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    position: fixed;
+    bottom: 50%;
+    left: -10%;
+}
+.student3 {
+    animation-name: running3;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    position: fixed;
+    bottom: 50%;
+}
+@keyframes running {
+    from { left: -5%; }
+    to { left: 195%; }
+}
+@keyframes running2 {
+    from { left: -75%; }
+    to { left: 125%; }
+}
+@keyframes running3 {
+    from { left: -100%; }
+    to { left: 100%; }
+}
+@keyframes gif {
+    100% { background-position: -100px; }
+}
