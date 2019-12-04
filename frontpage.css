@@ -44,6 +44,9 @@ body {
     padding: 0.5em 1em;
     margin-bottom: 3em;
 }
+.red_button:hover {
+    cursor: pointer;
+}
 .student {
     animation-name: running;
     animation-duration: 10s;
@@ -83,4 +86,10 @@ body {
 }
 @keyframes gif {
     100% { background-position: -100px; }
+}
+
+.pauseAnimation {
+    animation-play-state: paused;
+    -webkit-animation-play-state: paused;
+    border: 1px solid #FF00FF;
 }
